@@ -1,0 +1,10 @@
+Output: AutoCAD dwg/dxf File PCB
+Type  : AutoCAD PCB
+From  : PCB Document [NE-CurrentSense-V3.PcbDoc]
+   Generated File[NE-CurrentSense-V3.DWG]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 07:28:54 On 07/07/2018

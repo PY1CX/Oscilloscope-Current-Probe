@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: E:\CODE\NE-CurrentSense\NE-CurrentSense-V3.0\NE-CurrentSense-V3.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=ne-currentsense-v3-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=ne-currentsense-v3-nonplated.txt|DrillLayers=gtl,gbl
